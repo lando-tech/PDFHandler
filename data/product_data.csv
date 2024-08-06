@@ -1,0 +1,128 @@
+,model,description,part_num
+0,XTP II CP 4i HD 8K,Four Input Board 8K HDMI w/ Stereo Audio,70-1262-01
+1,XTP II CP 4o HD 8K,Four Output Board 8K HDMI w/ Stereo Audio,70-1263-01
+2,XTP SR HD 4K,HDMI Scaling Receiver,60-1524-01
+3,XTP SFR HD 4K MM,HDMI Scaling Receiver Multimode,60-1278-21
+4,XTP SFR HD 4K SM,HDMI Scaling Receiver Singlemode,60-1278-22
+5,NAV E 401 D,1G HDMI Ethernet Encoder Decorator Black,60-1525-07
+6,NAV E 401 D,1G HDMI Ethernet Encoder Decorator White,60-1525-08
+7,NAV E 201 D,1G HDMI Encoder Decorator Black,60-1525-05
+8,NAV E 201 D,1G HDMI Encoder Decorator White,60-1525-06
+9,NAV E 511 MM,1G Fiber HDMI Ethernet USB Encoder Multimode,60-1958-05
+10,NAV E 511 SM,1G Fiber HDMI Ethernet USB Encoder Singlemode,60-1958-06
+11,NAV E 101 DTP,1G Pro AV over IP Encoder with DTP,60-1525-15
+12,NAV SD 511 MM,1G Fiber HDMI Eth USB Scaling Decoder Multimode,60-1958-07
+13,NAV SD 511 SM,1G Fiber HDMI Eth USB Scaling Decoder Singlemode,60-1958-08
+14,UCS FTR 900,Kit	SuperSpeed USB Extender Kit,42-298-01
+15,SW2 USB Pro,Two Input SuperSpeed USB 10G Switcher,60-1833-01
+16,SW4 USB Pro,Four Input SuperSpeed USB 10G Switcher,60-1834-01
+17,USB-C HD 101,USB-C to HDMI Interface,60-1883-01
+18,ShareLink Pro 1100,Wired and Wireless Presentation System,60-1943-01
+19,LinkLicense,H264 Support Upgrade,79-2580-01
+20,WFA 100 US,USB to Wi-Fi Miracast Adapter US,60-1944-01
+21,WFA 100 EU,USB to Wi-Fi Miracast Adapter EU,60-1944-02
+22,ShareLink Pro 1100,Miracast Kit US,42-294-01
+23,ShareLink Pro 1100,Miracast Kit EU,42-294-02
+24,ShareLink Pro 500,Miracast Kit US,42-297-01
+25,ShareLink Pro 500,Miracast Kit EU,42-297-02
+26,ShareLink Pro 1100,Miracast Adapter and Power Supply US,42-295-01
+27,ShareLink Pro 1100,Miracast Adapter and Power Supply EU,42-295-02
+28,SMP 111,Enhanced Panopto Features,79-2562-01
+29,SMP 111,Enhanced Kaltura Features,79-2548-01
+30,SMP 300,Ensemble Video Features,79-2565-01
+31,SMP 300,YuJa Features,79-2566-01
+32,TLP Pro 1225MG,Black Wall Mount,60-1787-02
+33,TLP Pro 1225MG,NC Black Wall Mount No Camera,60-1787-12
+34,TLP Pro 1525MG,Black Wall Mount,60-1789-02
+35,TLP Pro 1525MG,NC Black Wall Mount No Camera,60-1789-12
+36,TLP Pro 1725MG,Black Wall Mount,60-1791-02
+37,TLP Pro 1725MG,NC Black Wall Mount No Camera,60-1791-12
+38,TLP Pro 1525TG,Black Tabletop & VESA,60-1790-02
+39,TLP Pro 1525TG,NC Black Tabletop & VESA No Camera,60-1790-12
+40,TLP Pro 1725TG,Black Tabletop & VESA,60-1792-02
+41,TLP Pro 1725TG,NC Black Tabletop & VESA No Camera,60-1792-12
+42,TLP Pro 1225TG,Black Tabletop & VESA,60-1788-02
+43,TLP Pro 1225TG,NC Black Tabletop & VESA No Camera,60-1788-12
+44,IPCP Pro 555Q xi,IP Link Pro Control Processor,60-1917-01
+45,IPCP Pro 555Q xi,IP Link Pro Control Proc LL UI Upgrade,60-1917-01A
+46,IPCP Pro 360Q xi,IP Link Pro Control Processor,60-1916-01
+47,IPCP Pro 360Q xi,IP Link Pro Control Proc LL UI Upgrade,60-1916-01A
+48,IPCP Pro 255Q xi,IP Link Pro Control Processor,60-1914-01
+49,IPCP Pro 255Q xi,IP Link Pro Control Proc LL UI Upgrade,60-1914-01A
+50,IPCP Pro 550 xi,IP Link Pro Control Processor,60-1913-01
+51,IPCP Pro 550 xi,IP Link Pro Control Proc LL UI Upgrade,60-1913-01A
+52,IPCP Pro 355DRQ xi,IP Link Pro Control Processor DIN Rail,60-1915-01
+53,IPCP Pro 355DRQ xi,IP Link Pro Control Proc DIN Rail LL UI Upgrade,60-1915-01A
+54,IPCP Pro 350 xi,IP Link Pro Control Processor,60-1912-01
+55,IPCP Pro 350 xi,IP Link Pro Control Proc LL UI Upgrade,60-1912-01A
+56,IPCP Pro 250 xi,IP Link Pro Control Processor,60-1911-01
+57,IPCP Pro 250 xi,IP Link Pro Control Proc LL UI Upgrade,60-1911-01A
+58,IPCP Pro PCS1 xi,IP Link Pro Control Processor,60-1910-01
+59,IPCP Pro PCS1 xi,IP Link Pro Control Proc LL UI Upgrade,60-1910-01A
+60,FOX3 T 101 MM,Lossless 4K/60 Transmitter Multimode,60-1957-11
+61,FOX3 T 101 SM,Lossless 4K/60 Transmitter Singlemode,60-1957-12
+62,FOX3 R 101 MM,Lossless 4K/60 Receiver Multimode,60-1957-21
+63,FOX3 R 101 SM,Lossless 4K/60 Receiver Singlemode,60-1957-22
+64,FPC 6000,"15"" Touchscreen Rack Mount 7U",60-1706-01
+65,MGP 641,4 HDMI Inputs,60-1574-01
+66,DSC 401,4K/60 HDMI to HDMI Scaler,60-1878-01
+67,DSC 401 A,4K/60 HDMI to HDMI Scaler w/ Audio,60-1878-02
+68,Quantum Ultra II 305,3U 5-slot Frame,60-1899-01
+69,Quantum Ultra II 610,6U 10-slot Frame,60-1900-01
+70,XPA U 2002,SB Two Channel Bridgeable Output Amp 200/400 Watts,60-1758-01
+71,NetPA U 2002,SB	Two Ch Bridgeable Output Dante Amp 200/400 Watts,60-1757-01
+72,NetPA U 8001,Mono Dante Subwoofer Amp 800 watts at 8 ohms,60-1866-01
+73,NetPA U 1004,Four Channel Dante Amp 100 watts at 8 or 4 ohms,60-1766-01
+74,NetPA U 1004-70V,Four Channel Dante Amp 100 watts at 70 volts,60-1766-02
+75,NetPA U 1004-100V,Four Channel Dante Amp 100 watts at 100 volts,60-1766-12
+76,NetPA U 1002,Two Channel Dante Amp 100 watts at 8 or 4 ohms,60-1767-01
+77,NetPA U 1002-70V,Two Channel Dante Amp 100 watts at 70 volts,60-1767-02
+78,NetPA U 1002-100V,Two Channel Dante Amp 100 watts at 100 volts,60-1767-12
+79,Cable Cubby 222,US One US AC Outlet 12 Breaker 2 Outlets Under,60-1927-02
+80,Cable Cubby 500,Black 2 US AC 12A Breaker 2 Outlets Under,60-1892-02
+81,Cable Cubby 700,Black 2 US AC 12A Breaker 2 Outlets Under,60-1893-02
+82,Cable Cubby 1202,Black 2 US AC 12A Breaker 2 Outlets Under,60-1894-02
+83,Cable Cubby 1402,Black 4 US AC 12A Breaker 4 Outlets Under,60-1895-02
+84,SF 26CT LP,"65"" LowProfile 2-Way Ceiling Spkrs Complete Pair",60-1881-03
+85,BCK SF 26CT LP,SF 26CT Low Profile back can only Pair 1 of 2,70-1283-01
+86,DAK SF 26CT LP,SF 26CT LP driver/baffle assembly only Pair 2of2,70-1283-03
+87,USBA Pro P/15,15' (45 m),26-728-15
+88,USBA Pro P/25,25' (76 m),26-728-25
+89,USBA Pro P/35,35' (106 m),26-728-35
+90,USBA Pro P/50,50' (152 m),26-728-50
+91,USBA Pro P/65,65' (198 m),26-728-65
+92,USBC Pro/12,12' (36 m),26-741-12
+93,USBC Pro/15,15' (45 m),26-741-15
+94,USBC Pro/25,25' (76 m),26-741-25
+95,XTP DTP 22/3,3' (90 cm),26-739-03
+96,XTP DTP 22/6,6' (18 m),26-739-06
+97,XTP DTP 22/9,9' (27 m),26-739-09
+98,XTP DTP 22/12,12' (36 m),26-739-12
+99,XTP DTP 22/25,25' (76 m),26-739-25
+100,XTP DTP 22/35,35' (106 m),26-739-35
+101,XTP DTP 22/50,50' (152 m),26-739-50
+102,XTP DTP 22/75,75' (228 m),26-739-75
+103,XTP DTP 22/100,100' (304 m),26-739-100
+104,XTP DTP 22/125,125' (381 m),26-739-125
+105,XTP DTP 22/150,150' (457 m),26-739-150
+106,XTP DTP 22/175,175' (533 m),26-739-175
+107,XTP DTP 22/200,200' (610 m),26-739-200
+108,XTP DTP 22/300,300' (914 m),26-739-300
+109,XTP DTP 22P/3,3' (90 cm),26-740-03
+110,XTP DTP 22P/6,6' (18 m),26-740-06
+111,XTP DTP 22P/9,9' (27 m),26-740-09
+112,XTP DTP 22P/12,12' (36 m),26-740-12
+113,XTP DTP 22P/25,25' (76 m),26-740-25
+114,XTP DTP 22P/35,35' (106 m),26-740-35
+115,XTP DTP 22P/50,50' (152 m),26-740-50
+116,XTP DTP 22P/75,75' (228 m),26-740-75
+117,XTP DTP 22P/100,100' (304 m),26-740-100
+118,XTP DTP 22P/125,125' (381 m),26-740-125
+119,XTP DTP 22P/150,150' (457 m),26-740-150
+120,XTP DTP 22P/175,175' (533 m),26-740-175
+121,XTP DTP 22P/200,200' (610 m),26-740-200
+122,XTP DTP 22P/300,300' (914 m),26-740-300
+123,XTP DTP 22,RJ-45 Connector XTP DTP 22 Plug Package of 10,101-033-01
+124,XTP DTP 22/1000,Non-Plenum 1000' (305 m) spool,22-285-03
+125,Microphone,Standard Audio Mic,00-0000-00
+126,Audio Matrix,Mixing Board,00-0000-00
